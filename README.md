@@ -1,1 +1,2 @@
 # Predictive-Analytics-for-Bike-Sharing
+We conducted a comprehensive analysis of BoomBikes' bike-sharing data, utilizing statistical and machine learning methods to identify key demand drivers and develop a predictive model. This model provides actionable insights into bike usage patterns, empowering the company to optimize operations, enhance customer satisfaction, and strategically plan for future growth.
